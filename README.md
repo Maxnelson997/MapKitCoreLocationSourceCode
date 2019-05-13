@@ -1,4 +1,4 @@
-# **[maxcodes.io](maxcodes.io)**
+# **[maxcodes.io](https://www.maxcodes.io)**
 
 # source code for the Udemy mapkit course.
 
