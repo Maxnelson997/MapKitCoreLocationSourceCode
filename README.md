@@ -1,6 +1,6 @@
-# course
-https://www.udemy.com/draft/2314758/?couponCode=SECRET_GITHUB_COUPON
+# **[maxcodes.io](maxcodes.io)**
 
+# source code for the Udemy mapkit course.
 
 # courses
 As always, all of my courses have source code too! :)
